@@ -1,0 +1,117 @@
+ID,Name,Venue,Organizer ID,List of Vendors,List of Participants,Carbon Footprint
+EV001,Clean Energy Workshop,Eco Center,E014,"['V108', 'V52']","['P285', 'P15', 'P39', 'P213']",5.5
+EV002,GreenTech Conference,Sunset Gardens,E093,['V18'],"['P22', 'P183', 'P94', 'P279', 'P109', 'P222', 'P266', 'P65', 'P296', 'P238']",5
+EV003,Sustainability Seminar,Mountain Resort,E073,"['V3', 'V2', 'V68', 'V95', 'V62']","['P37', 'P169', 'P17']",7.7
+EV004,GreenTech Conference,City Conference Room,E019,['V143'],"['P260', 'P89', 'P257', 'P20', 'P146', 'P99']",9.6
+EV005,GreenTech Conference,Sunset Gardens,E010,"['V25', 'V140', 'V102']","['P18', 'P136', 'P216', 'P274']",9.9
+EV007,Sustainability Seminar,Sunset Gardens,E095,"['V8', 'V124', 'V9', 'V126']","['P249', 'P111', 'P13', 'P294', 'P258', 'P251', 'P143', 'P60']",7.7
+EV008,GreenTech Conference,City Conference Room,E088,"['V60', 'V59', 'V149', 'V111', 'V54']","['P55', 'P96', 'P111', 'P3', 'P272', 'P268', 'P30', 'P56', 'P197']",7.1
+EV009,GreenTech Conference,Eco Center,E097,"['V83', 'V117', 'V54', 'V12']","['P216', 'P5', 'P212', 'P55', 'P114', 'P103', 'P224']",5.8
+EV010,Clean Energy Workshop,City Conference Room,E075,['V104'],"['P96', 'P20', 'P163', 'P136', 'P91', 'P258']",8.1
+EV011,GreenTech Conference,Renewable Hub,E049,['V133'],"['P256', 'P155', 'P172', 'P289', 'P152', 'P135', 'P245', 'P165', 'P292']",7.8
+EV012,Clean Energy Workshop,Mountain Resort,E023,"['V76', 'V5', 'V99']","['P199', 'P76', 'P3', 'P58', 'P9', 'P198', 'P183', 'P199']",8.6
+EV013,Eco Fashion Show,Renewable Hub,E077,"['V59', 'V149', 'V71', 'V25', 'V146']","['P148', 'P220', 'P231', 'P159', 'P138', 'P151', 'P36', 'P188', 'P46', 'P24']",8.5
+EV014,Clean Energy Workshop,City Conference Room,E036,['V39'],"['P83', 'P56', 'P268', 'P262', 'P95']",9.9
+EV015,Sustainability Seminar,Eco Center,E039,"['V98', 'V17']","['P49', 'P241', 'P281']",8.5
+EV016,GreenTech Conference,Eco Center,E042,"['V130', 'V29', 'V20', 'V100', 'V17']","['P283', 'P127', 'P42', 'P154', 'P275', 'P205', 'P286', 'P215', 'P255']",5.3
+EV017,Sustainability Seminar,Renewable Hub,E019,"['V78', 'V64', 'V28']","['P29', 'P24', 'P38', 'P34', 'P30', 'P242', 'P290', 'P210', 'P98']",6.1
+EV019,Clean Energy Workshop,Mountain Resort,E005,"['V64', 'V132', 'V75', 'V95', 'V5']",['P244'],8.8
+EV021,Sustainability Seminar,Eco Center,E098,"['V134', 'V146', 'V31', 'V8', 'V67']","['P100', 'P265', 'P75']",7.6
+EV022,Clean Energy Workshop,Eco Center,E080,"['V83', 'V114']","['P29', 'P63', 'P276', 'P46']",6.4
+EV023,Sustainability Seminar,Sunset Gardens,E048,"['V40', 'V3', 'V38', 'V46', 'V142']","['P103', 'P125']",7.7
+EV024,GreenTech Conference,Sunset Gardens,E078,['V137'],"['P173', 'P184', 'P51', 'P142']",7.8
+EV025,Clean Energy Workshop,Mountain Resort,E054,"['V4', 'V83', 'V43']","['P165', 'P114', 'P105', 'P88', 'P91', 'P175', 'P184', 'P256']",8.5
+EV026,Clean Energy Workshop,Sunset Gardens,E046,"['V114', 'V43', 'V129']",['P232'],6.7
+EV027,Eco Fashion Show,Sunset Gardens,E083,"['V13', 'V95', 'V8', 'V147', 'V67']",['P109'],6.9
+EV028,GreenTech Conference,City Conference Room,E022,"['V82', 'V67', 'V100', 'V128']","['P165', 'P18', 'P142', 'P295', 'P244']",7.2
+EV029,Eco Fashion Show,Mountain Resort,E029,['V136'],"['P1', 'P98']",8.3
+EV030,GreenTech Conference,City Conference Room,E038,"['V103', 'V93', 'V60', 'V58']",['P97'],6.6
+EV031,Eco Fashion Show,City Conference Room,E080,"['V85', 'V51', 'V45', 'V14', 'V129']","['P139', 'P55', 'P122', 'P130']",5.2
+EV033,Clean Energy Workshop,Eco Center,E017,['V138'],"['P3', 'P81', 'P95', 'P211', 'P76', 'P195', 'P91', 'P265', 'P98', 'P32']",7.3
+EV034,GreenTech Conference,City Conference Room,E051,"['V65', 'V8']","['P30', 'P93', 'P66', 'P181', 'P174']",9.3
+EV035,Eco Wedding Expo,Renewable Hub,E095,"['V145', 'V117', 'V36']","['P213', 'P53', 'P96', 'P48', 'P154', 'P105', 'P47']",5.5
+EV038,GreenTech Conference,Eco Center,E100,"['V79', 'V64', 'V43']","['P92', 'P278', 'P75', 'P242', 'P81']",9.5
+EV039,Eco Wedding Expo,Renewable Hub,E018,"['V26', 'V139', 'V30', 'V132']","['P219', 'P275', 'P17']",6.8
+EV041,GreenTech Conference,Eco Center,E015,"['V126', 'V86', 'V145', 'V12', 'V25']","['P144', 'P42']",5.3
+EV042,Eco Wedding Expo,Mountain Resort,E045,"['V22', 'V126', 'V37', 'V14', 'V18']","['P148', 'P173']",6.9
+EV043,Eco Wedding Expo,City Conference Room,E025,"['V35', 'V32', 'V59', 'V69', 'V96']","['P298', 'P149', 'P245', 'P70', 'P198', 'P273']",6.6
+EV044,GreenTech Conference,City Conference Room,E026,"['V85', 'V62', 'V140', 'V51']","['P160', 'P30', 'P287', 'P75', 'P138', 'P13']",6.8
+EV046,Eco Wedding Expo,Renewable Hub,E083,"['V22', 'V46', 'V64', 'V12', 'V4']","['P35', 'P112', 'P83', 'P277', 'P11', 'P5', 'P155', 'P42', 'P78', 'P262']",7
+EV047,Clean Energy Workshop,Mountain Resort,E093,"['V54', 'V36']","['P126', 'P237', 'P203', 'P257', 'P163']",5.7
+EV048,GreenTech Conference,Sunset Gardens,E013,"['V98', 'V95', 'V96']","['P187', 'P159', 'P268', 'P203']",8.2
+EV050,Eco Fashion Show,Mountain Resort,E064,"['V1', 'V85']","['P275', 'P255', 'P201', 'P20', 'P107', 'P179', 'P174', 'P103']",7.1
+EV051,Sustainability Seminar,Renewable Hub,E083,['V69'],"['P238', 'P217', 'P278', 'P156']",5.3
+EV052,Eco Wedding Expo,Sunset Gardens,E088,['V69'],"['P94', 'P287', 'P227']",9.5
+EV053,Eco Wedding Expo,City Conference Room,E018,['V127'],"['P290', 'P178', 'P14', 'P213', 'P191', 'P9', 'P74', 'P6', 'P30']",9.6
+EV055,Sustainability Seminar,Eco Center,E002,"['V149', 'V75', 'V13']",['P75'],8.3
+EV056,Sustainability Seminar,Sunset Gardens,E059,"['V30', 'V96', 'V86', 'V131', 'V54']","['P24', 'P146', 'P241', 'P297', 'P30']",8.6
+EV057,Eco Fashion Show,Sunset Gardens,E068,"['V65', 'V25']","['P152', 'P256', 'P152', 'P217', 'P46', 'P132', 'P160', 'P203']",7.2
+EV058,Eco Fashion Show,City Conference Room,E038,"['V137', 'V121', 'V104', 'V109']","['P100', 'P240', 'P1', 'P272', 'P112', 'P52', 'P7', 'P64']",8.5
+EV060,GreenTech Conference,Eco Center,E093,"['V132', 'V83', 'V83']","['P137', 'P66', 'P80', 'P220', 'P18']",8.6
+EV061,Eco Fashion Show,Eco Center,E036,"['V12', 'V56']","['P192', 'P179', 'P167', 'P103', 'P36', 'P44', 'P55', 'P4', 'P4', 'P68']",7.7
+EV062,Eco Wedding Expo,Mountain Resort,E063,['V64'],"['P175', 'P241', 'P15', 'P43', 'P147']",9.5
+EV063,Eco Fashion Show,Mountain Resort,E075,"['V52', 'V75', 'V101']","['P189', 'P89', 'P164', 'P137', 'P44', 'P164', 'P189', 'P58']",8.6
+EV064,Clean Energy Workshop,Renewable Hub,E019,"['V61', 'V90', 'V84']","['P6', 'P55', 'P104', 'P79', 'P147', 'P134', 'P145', 'P80', 'P253', 'P49']",7.1
+EV065,Clean Energy Workshop,Renewable Hub,E049,"['V56', 'V95', 'V26', 'V47']","['P28', 'P98', 'P170', 'P140', 'P121', 'P270', 'P50']",6.4
+EV067,GreenTech Conference,Mountain Resort,E031,"['V145', 'V123', 'V146']",['P126'],5.3
+EV068,Eco Fashion Show,Sunset Gardens,E013,['V93'],"['P40', 'P223']",9.9
+EV069,Eco Wedding Expo,Sunset Gardens,E084,"['V80', 'V40', 'V16', 'V98', 'V88']","['P164', 'P93', 'P263', 'P101', 'P187']",9.9
+EV070,Sustainability Seminar,City Conference Room,E100,"['V50', 'V101', 'V140', 'V114', 'V39']",['P106'],9.5
+EV071,GreenTech Conference,Sunset Gardens,E017,"['V4', 'V80', 'V95', 'V62', 'V38']","['P5', 'P201', 'P220', 'P283', 'P120', 'P147', 'P284']",6.1
+EV072,GreenTech Conference,Renewable Hub,E073,"['V74', 'V150', 'V29', 'V86']","['P107', 'P116', 'P238', 'P59', 'P299', 'P136', 'P13', 'P155']",8.1
+EV073,GreenTech Conference,Renewable Hub,E074,"['V58', 'V67']","['P156', 'P43', 'P110', 'P184', 'P271', 'P279', 'P26', 'P234']",7.1
+EV074,GreenTech Conference,Renewable Hub,E025,"['V75', 'V61', 'V148', 'V46', 'V58']","['P294', 'P195', 'P56', 'P36', 'P79', 'P20']",8.4
+EV075,Sustainability Seminar,Sunset Gardens,E081,"['V32', 'V70', 'V134', 'V77']","['P168', 'P46', 'P169']",5.8
+EV076,Clean Energy Workshop,Mountain Resort,E001,"['V2', 'V32', 'V125', 'V15', 'V31']","['P144', 'P138', 'P187', 'P187', 'P58', 'P75', 'P181']",10
+EV077,Clean Energy Workshop,Sunset Gardens,E086,"['V17', 'V137', 'V147']","['P246', 'P107', 'P45', 'P23', 'P80', 'P48', 'P27', 'P263']",7.5
+EV079,Sustainability Seminar,Eco Center,E074,['V74'],"['P237', 'P126', 'P213', 'P200']",9.2
+EV080,Clean Energy Workshop,City Conference Room,E068,"['V84', 'V39']","['P87', 'P44', 'P287', 'P158']",5.4
+EV082,Sustainability Seminar,Eco Center,E097,"['V59', 'V70', 'V41', 'V66']","['P19', 'P145', 'P74', 'P213', 'P47', 'P147', 'P86', 'P276', 'P89']",8.1
+EV083,Sustainability Seminar,Sunset Gardens,E039,['V76'],"['P53', 'P150', 'P215', 'P176', 'P143', 'P238', 'P173', 'P65', 'P34', 'P134']",9.8
+EV085,Sustainability Seminar,Renewable Hub,E041,['V41'],"['P300', 'P161', 'P177', 'P244', 'P134', 'P118', 'P236', 'P3', 'P191', 'P37']",9.8
+EV086,Eco Wedding Expo,Sunset Gardens,E023,"['V91', 'V31', 'V3', 'V43', 'V19']","['P209', 'P262']",9.4
+EV087,Eco Wedding Expo,Mountain Resort,E094,"['V43', 'V12', 'V117', 'V83', 'V31']","['P223', 'P152', 'P268', 'P276', 'P286', 'P58', 'P57', 'P12']",5.4
+EV088,Eco Wedding Expo,Renewable Hub,E059,"['V25', 'V111', 'V84']","['P71', 'P251', 'P168', 'P107', 'P90', 'P248', 'P57']",5.5
+EV089,Clean Energy Workshop,City Conference Room,E027,"['V96', 'V60']",['P132'],7.8
+EV090,Sustainability Seminar,Mountain Resort,E019,"['V103', 'V59', 'V23']","['P33', 'P158', 'P174', 'P89', 'P203', 'P124', 'P256', 'P199']",6.3
+EV092,Clean Energy Workshop,City Conference Room,E031,"['V69', 'V111', 'V101', 'V64', 'V63']","['P276', 'P135', 'P148', 'P262', 'P152', 'P15', 'P214']",5.8
+EV094,Clean Energy Workshop,Eco Center,E078,"['V9', 'V8', 'V120', 'V131']","['P148', 'P281', 'P111', 'P91', 'P275']",9.9
+EV095,Eco Fashion Show,Mountain Resort,E011,['V105'],"['P152', 'P134', 'P73', 'P58', 'P277', 'P42', 'P125']",5
+EV096,Sustainability Seminar,Renewable Hub,E079,"['V44', 'V96', 'V58', 'V31', 'V54']","['P48', 'P131', 'P6', 'P139', 'P203', 'P11']",8.6
+EV097,Sustainability Seminar,Eco Center,E022,"['V77', 'V34', 'V2']","['P180', 'P296', 'P283', 'P4', 'P221', 'P157', 'P66', 'P84', 'P264', 'P3']",6.8
+EV098,Eco Wedding Expo,Eco Center,E050,"['V135', 'V85', 'V38']","['P93', 'P140', 'P211', 'P265']",7.1
+EV099,Clean Energy Workshop,City Conference Room,E016,"['V82', 'V146', 'V150', 'V20', 'V10']","['P23', 'P63', 'P40']",7
+EV100,Eco Fashion Show,Mountain Resort,E092,"['V35', 'V91', 'V77', 'V90', 'V137']","['P140', 'P189', 'P190', 'P95', 'P247', 'P105', 'P110']",7.6
+EV101,Eco Wedding Expo,Eco Center,E033,"['V94', 'V54']","['P70', 'P281', 'P278', 'P196', 'P45', 'P86', 'P57']",7.2
+EV102,Eco Wedding Expo,Eco Center,E088,['V24'],"['P66', 'P26', 'P265']",8.9
+EV103,Clean Energy Workshop,Renewable Hub,E031,"['V142', 'V35']","['P204', 'P196', 'P298']",7.9
+EV104,Eco Fashion Show,City Conference Room,E018,"['V26', 'V147', 'V126']","['P218', 'P125', 'P176', 'P157']",7.7
+EV105,Eco Wedding Expo,Sunset Gardens,E052,"['V33', 'V89', 'V5']","['P172', 'P295', 'P245']",6.3
+EV106,Eco Wedding Expo,Eco Center,E032,"['V115', 'V61', 'V51', 'V65', 'V76']","['P189', 'P31', 'P287', 'P78', 'P81']",5.1
+EV107,Eco Wedding Expo,Renewable Hub,E067,"['V73', 'V68', 'V37', 'V81', 'V72']","['P291', 'P29', 'P119', 'P181', 'P6', 'P270', 'P205']",7.5
+EV108,Eco Fashion Show,Renewable Hub,E082,['V114'],"['P158', 'P35', 'P245', 'P266', 'P201', 'P260', 'P256', 'P141', 'P287']",5.3
+EV109,Eco Wedding Expo,Renewable Hub,E027,"['V101', 'V79', 'V65', 'V21', 'V48']","['P9', 'P182', 'P121', 'P277', 'P272', 'P44']",6.4
+EV110,Eco Wedding Expo,Mountain Resort,E039,"['V21', 'V123', 'V60']",['P187'],9.4
+EV111,Sustainability Seminar,Eco Center,E077,"['V50', 'V131', 'V122']","['P93', 'P256', 'P178', 'P253', 'P136', 'P64', 'P233', 'P261']",7.3
+EV112,GreenTech Conference,Mountain Resort,E097,"['V35', 'V142', 'V70']","['P177', 'P228', 'P245', 'P4', 'P227', 'P244', 'P235', 'P255', 'P112']",5.3
+EV113,Eco Wedding Expo,City Conference Room,E017,"['V120', 'V86']",['P255'],9
+EV114,Clean Energy Workshop,Eco Center,E047,"['V43', 'V30', 'V57', 'V124']","['P26', 'P231', 'P228', 'P25', 'P3', 'P101']",6.3
+EV115,Eco Wedding Expo,Mountain Resort,E062,"['V45', 'V113', 'V128', 'V51', 'V101']","['P207', 'P42', 'P81', 'P280', 'P36', 'P78', 'P144', 'P27', 'P144', 'P122']",7.8
+EV116,GreenTech Conference,Renewable Hub,E065,"['V28', 'V132', 'V110', 'V78', 'V113']","['P106', 'P160', 'P28', 'P275', 'P273', 'P214', 'P6', 'P66', 'P42']",9.8
+EV117,Eco Wedding Expo,Sunset Gardens,E031,"['V105', 'V149', 'V8']","['P236', 'P208']",6.7
+EV118,Sustainability Seminar,City Conference Room,E058,"['V125', 'V63']","['P169', 'P195', 'P240', 'P201', 'P131', 'P173', 'P146', 'P280', 'P10', 'P4']",5.3
+EV119,GreenTech Conference,Mountain Resort,E079,"['V112', 'V44', 'V13', 'V31']","['P110', 'P290', 'P249', 'P232']",9.4
+EV123,GreenTech Conference,Mountain Resort,E052,"['V36', 'V108']","['P268', 'P155', 'P57', 'P288', 'P151', 'P255', 'P33', 'P196']",7.6
+EV124,Sustainability Seminar,Eco Center,E042,"['V94', 'V143', 'V125', 'V34']","['P33', 'P43']",9.4
+EV125,Clean Energy Workshop,Mountain Resort,E012,"['V83', 'V124']","['P74', 'P122', 'P79', 'P158']",5.2
+EV075,Sustainability Seminar,Sunset Gardens,E081,"['V32', 'V70', 'V134', 'V77']","['P168', 'P46', 'P169']",5.8
+EV046,Eco Wedding Expo,Renewable Hub,E083,"['V22', 'V46', 'V64', 'V12', 'V4']","['P35', 'P112', 'P83', 'P277', 'P11', 'P5', 'P155', 'P42', 'P78', 'P262']",7
+EV032,GreenTech Conference,Mountain Resort,E009,"['V55', 'V38']","['P120', 'P90', 'P286', 'P45', 'P221']",6.4
+EV066,Eco Wedding Expo,City Conference Room,E042,"['V79', 'V36', 'V107', 'V104', 'V18']","['P202', 'P200', 'P295', 'P140', 'P222', 'P21', 'P9', 'P76', 'P50']",5.6
+EV067,GreenTech Conference,Mountain Resort,E031,"['V145', 'V123', 'V146']",['P126'],5.3
+EV119,GreenTech Conference,Mountain Resort,E079,"['V112', 'V44', 'V13', 'V31']","['P110', 'P290', 'P249', 'P232']",9.4
+EV101,Eco Wedding Expo,Eco Center,E033,"['V94', 'V54']","['P70', 'P281', 'P278', 'P196', 'P45', 'P86', 'P57']",7.2
+EV116,GreenTech Conference,Renewable Hub,E065,"['V28', 'V132', 'V110', 'V78', 'V113']","['P106', 'P160', 'P28', 'P275', 'P273', 'P214', 'P6', 'P66', 'P42']",9.8
+EV034,GreenTech Conference,City Conference Room,E051,"['V65', 'V8']","['P30', 'P93', 'P66', 'P181', 'P174']",9.3
+EV063,Eco Fashion Show,Mountain Resort,E075,"['V52', 'V75', 'V101']","['P189', 'P89', 'P164', 'P137', 'P44', 'P164', 'P189', 'P58']",8.6
+EV045,GreenTech Conference,Sunset Gardens,E038,"['V108', 'V148', 'V133', 'V68']","['P39', 'P166', 'P234', 'P205', 'P17', 'P169', 'P89', 'P274', 'P86']",5.8
